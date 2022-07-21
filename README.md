@@ -5,8 +5,6 @@
 
 [![UML](https://i.ibb.co/TRRBHJR/portfolio.png "UML")](https://i.ibb.co/TRRBHJR/portfolio.png "UML")
 
-I will provide a summary of the full version written by Written by Nam Ha Minh 2022:
-https://www.codejava.net/frameworks/spring-boot/spring-security-jwt-authentication-tutorial
 
 ### **Summary**
 
@@ -55,3 +53,8 @@ Here, the generateAccessToken() method creates a JSON Web Token with the followi
 - Issuer name is *
 - The token is issued at the current date and time
 - The token should expire after 24 hours
+
+
+
+I wrote a summary of the full version written by Nam Ha Minh (2022):
+https://www.codejava.net/frameworks/spring-boot/spring-security-jwt-authentication-tutorial
